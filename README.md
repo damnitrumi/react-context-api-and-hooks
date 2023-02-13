@@ -2,6 +2,10 @@ Projeto feito de acordo com um curso da Udemy, apenas para reunir e por em prát
 Constituído de botões, que ao serem pressionados, alteram o estado da aplicação, alterando um contador que é mostrado na tela.
 O foco é apenas em praticar os conceitos como foi dito no inicio, sem nenhum foco em estilização da página.
 
+Project done in a Udemy.com course, just to sum up and practice the concepts of Reducer, Context API and Hooks.
+It has buttons that when pressed, change the state of the app, changing a counter that is shown in the screen.
+Focused only on practicing the concepts as said before, style was not the focus.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
